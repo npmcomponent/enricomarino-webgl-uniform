@@ -1,0 +1,11 @@
+{
+  "name": "enricomarino-webgl-uniform",
+  "description": "WebGL Uniform component",
+  "version": "0.1.0",
+  "keywords": [
+    "webgl",
+    "uniform"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
